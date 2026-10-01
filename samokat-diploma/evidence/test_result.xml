@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="20.217" timestamp="2026-10-01T15:07:15.488825+03:00" hostname="0362d2c69d00"><testcase classname="test_order_track" name="test_get_created_order_by_track_returns_200" time="20.098" /></testsuite></testsuites>
